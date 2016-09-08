@@ -7,5 +7,3 @@ set int=0xc
 set start=1
 На каком закончить
 set end=255
-
-
